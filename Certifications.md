@@ -34,4 +34,4 @@ Each folder or link contains the respective certificate or project files. This r
 
 ## 📬 Contact
 - Email: btwaliraza110@gmail.com
-- LinkedIn: [Ali Raza](www.linkedin.com/in/ali-r-a8a144391)  
+- LinkedIn: (www.linkedin.com/in/ali-r-a8a144391)  
