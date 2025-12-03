@@ -24,6 +24,12 @@ This repository showcases my completed courses and certifications, demonstrating
 ---
 
 ## 📜 Certificate List
+![Python Basics - Scholar Hat](https://img.shields.io/badge/Python_Basics-Scholar_Hat-lightblue?style=flat-square)
+![Python Programming - STEAM UP](https://img.shields.io/badge/Python_Programming-STEAM_UP-lightgreen?style=flat-square)
+![Google Gemini AI](https://img.shields.io/badge/Google_Gemini-Certified-brightgreen?style=flat-square)
+![Introduction to GenAI](https://img.shields.io/badge/Introduction_to_GenAI-Qwiklabs-blue?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-Qwiklabs-red?style=flat-square)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-Qwiklabs-orange?style=flat-square)
 
 | Course / Certification                   | Platform       | Certificate / Link |
 |----------------------------------------|----------------|------------------|
@@ -43,6 +49,7 @@ Each folder or link contains the respective certificate files. This repository i
 ---
 
 ## 📬 Contact
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-raza-py&show_icons=true&theme=radical)
 
 - **Email:** btwaliraza110@gmail.com  
 - **LinkedIn:** (https://www.linkedin.com/in/ali-r-a8a144391)
