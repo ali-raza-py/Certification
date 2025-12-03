@@ -6,6 +6,15 @@ This repository showcases my completed courses and certifications, demonstrating
 ---
 
 ## 🎯 Key Areas
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
+![C++](https://img.shields.io/badge/C++-Basics-lightgrey?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-Library-orange?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Library-blue?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Library-red?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Library-purple?style=flat-square)
+![Regex](https://img.shields.io/badge/Regex-Text_Processing-green?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-Concepts-yellow?style=flat-square)
+![Try-Except](https://img.shields.io/badge/Try--Except-Exception_Handling-blue?style=flat-square)
 
 - **Python Programming:** Core concepts, object-oriented programming (OOP), exception handling (`try-except`), and libraries such as **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, and **Regular Expressions**.  
 - **Generative AI (Google Gemini):** Prompt engineering, AI workflows, and responsible AI practices.  
