@@ -36,5 +36,5 @@ Each folder or link contains the respective certificate files. This repository i
 ## 📬 Contact
 
 - **Email:** btwaliraza110@gmail.com  
-- **LinkedIn:** [Ali Raza](https://www.linkedin.com/in/ali-r-a8a144391)
+- **LinkedIn:** (https://www.linkedin.com/in/ali-r-a8a144391)
 
